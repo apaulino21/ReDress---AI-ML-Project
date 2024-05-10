@@ -8,6 +8,6 @@ It contains:
 - ReDress Presentation.pdf: the presentation done in class to showcase our project.
 - fashion_recommender.ipynb: the notebook with the Python code to recommend clotehs similar to a given item.
 - fashion_recommender.py: the Python code to recommend clotehs similar to a given item.
-- prototype: a mockup of what our app would look like.
 - outfit_builder.ipynb: the notebook with the Python code to build an outfit with clothes from a database given some specifications.
 - outfit_builder.py: the Python code to build an outfit with clothes from a database given some specifications.
+- prototype: a mockup of what our app would look like.
